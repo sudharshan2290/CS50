@@ -13,9 +13,10 @@ CS50 is an introduction to computer science offered by Harvard University. The c
 Problem Sets
 This repository includes solutions to the following problem sets:
 
-Problem Set 0: [Sctratch]
-Problem Set 1: [C]
-Problem Set 2: [Arrays]
-Problem Set 3: [Algorithms]
+Week 0 - Problem Set 0: [Sctratch]
+Week 1 - Problem Set 1: [C]
+Week 2 - Problem Set 2: [Arrays]
+Week 3 - Problem Set 3: [Algorithms]
+Week 4 - Promset Set 4: [Memory]
 ...
 Each problem set is contained in its own directory, and each directory includes all necessary files and documentation for that problem set.
